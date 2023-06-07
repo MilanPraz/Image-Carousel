@@ -1160,12 +1160,40 @@ video {
     height: 100px;
   }
 
+  .sm\:h-\[35vw\] {
+    height: 35vw;
+  }
+
+  .sm\:h-\[35vh\] {
+    height: 35vh;
+  }
+
+  .sm\:h-\[55vh\] {
+    height: 55vh;
+  }
+
+  .sm\:h-\[56vh\] {
+    height: 56vh;
+  }
+
   .sm\:w-\[30vw\] {
     width: 30vw;
   }
 
   .sm\:w-\[100px\] {
     width: 100px;
+  }
+
+  .sm\:w-\[27vw\] {
+    width: 27vw;
+  }
+
+  .sm\:w-\[26vw\] {
+    width: 26vw;
+  }
+
+  .sm\:w-\[25vw\] {
+    width: 25vw;
   }
 
   .sm\:scale-100 {
